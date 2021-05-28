@@ -55,8 +55,8 @@ small, .text_small {font-size: 0.833rem;}
 }
 
 [data-theme='dark'], .dark {
-  --bg-primary: #151113;
-  --bg-secondary: #1c171a;
+  --bg-primary: #0f0f12;
+  --bg-secondary: #17191c;
   --bg-accent: rgb(255, 38, 98);
 
   --text-primary: #cecece;

@@ -6,8 +6,8 @@ function MyApp({ Component, pageProps }) {
   return (
     <ThemeProvider>
       <DefaultSeo
-        title="Playground"
-        description="My playground to test new things."
+        title="Framer motion list animation"
+        description="Simple animation when reordering lists."
       />
       <Component {...pageProps} />
     </ThemeProvider>
