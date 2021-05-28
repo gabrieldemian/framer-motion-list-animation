@@ -1,4 +1,5 @@
 Simple animation with Framer Motion while sorting or filtering an array.
+Change the sort type to see the magic.
 
 ## ⚡ Stack
 - NextJS
