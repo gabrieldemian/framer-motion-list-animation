@@ -6,7 +6,7 @@ Simple animation with Framer Motion while sorting or filtering an array.
 - Framer Motion
 
 ## 🖥️ Production Link
-https://nextjs-ecommerce-peach.vercel.app/
+https://framer-motion-list-animation.vercel.app/
 
 ## ⚡ Instalation
 ```bash
